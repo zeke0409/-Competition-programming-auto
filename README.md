@@ -9,10 +9,6 @@ AtCoder_automatic_open.py - コマンドライン引数にコンテスト名を�
 
 AtCoderReflesh.py - 順位表を60秒ごとに自動更新
 
-## Licence
-
-[MIT](https://github.com/zeke/tool/blob/master/LICENCE)
-
 ## Author
 
 [zeke](https://github.com/zeke)
