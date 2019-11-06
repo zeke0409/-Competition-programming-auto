@@ -11,4 +11,4 @@ AtCoderReflesh.py - 順位表を60秒ごとに自動更新
 
 ## Author
 
-[zeke](https://github.com/zeke)
+[zeke](https://github.com/zeke0409)
